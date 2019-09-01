@@ -17,4 +17,4 @@ A simple railway management website with advanced features and database manageme
 
 All done. Edit the code according to your need :)
 
-If any help needed im here 24/7
+If any help needed I will reply as soon as possible :)
